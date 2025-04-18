@@ -1,4 +1,2 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
-https://epg.ovh/pl.xml
+https://drive.usercontent.google.com/download?id=1R_j_AZGAN-FvOi8IOAH2E7iZcm0MLRG6&export=download&authuser=0&confirm=t&uuid=dc24c2de-2e40-45d6-847d-ff235a242af9&at=APcmpozuLSNe3VW_553LYdWfpACc%3A1744940167222&.xml
